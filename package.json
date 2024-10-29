@@ -1,0 +1,23 @@
+{
+  "name": "sistema-crash",
+  "version": "4.0.0",
+  "description": "Bot Telegram dengan Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "bash wongireng.sh"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "nodejs"
+  ],
+  "author": "REYHAN6610",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.55.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
